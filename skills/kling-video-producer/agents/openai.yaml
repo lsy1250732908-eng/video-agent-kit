@@ -1,0 +1,4 @@
+interface:
+  display_name: "Kling Video Producer"
+  short_description: "Produce, recover and deliver verified video artifacts"
+  default_prompt: "Use $kling-video-producer to help with my video idea and references."
