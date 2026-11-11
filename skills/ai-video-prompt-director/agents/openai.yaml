@@ -1,0 +1,4 @@
+interface:
+  display_name: "Video Prompt Director"
+  short_description: "Plan video actions, references and acceptance criteria"
+  default_prompt: "Use $ai-video-prompt-director to help with my video idea and references."
