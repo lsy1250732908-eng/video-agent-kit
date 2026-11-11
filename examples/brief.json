@@ -1,0 +1,9 @@
+{
+  "goal": "A paper boat gently travels across a small blue pool, 5 seconds",
+  "references": [{"path": "runs/boat-reference.png", "role": "opening composition", "viewed": false}],
+  "prompt": "A small white paper boat floats on a still blue pool. A gentle ripple pushes it slowly from screen left toward the center. The camera remains fixed. End with the boat near the center; preserve its folded-paper shape. No cuts or dialogue.",
+  "requested_settings": {"duration_seconds": 5, "aspect_ratio": "16:9", "candidates": 1},
+  "output_dir": "runs/boat",
+  "acceptance": ["One paper boat", "Boat moves left to center", "Camera stays fixed"],
+  "authorization_scope": "Example only; no real submission or spending is authorized"
+}
