@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env*
+runs/
+*.mp4
+*.mov
+*.zip
+*.verification.json
+.DS_Store
